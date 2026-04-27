@@ -1,5 +1,7 @@
 # hive-readme-badge
 
+[![Hive](https://raw.githubusercontent.com/hiveuprss/hive-readme-badge/main/badge.svg)](https://hive.io/)
+
 Static SVG badge for GitHub README files: **Hive** label, brand colors, and the Font Awesome Hive brands glyph (see [NOTICE](NOTICE)).
 
 Inspired by the pattern described in [Adding Custom GitHub Badges to Your Repo](https://css-tricks.com/adding-custom-github-badges-to-your-repo/) (badges are remote images; GitHub may cache them for several minutes).

@@ -1,12 +1,12 @@
 # Rolling the badge into other READMEs
 
-1. Pick **one** canonical `badge.svg` URL (this repo on `main`, or your fork).
+1. Pick **one** canonical `badge.png` URL (this repo on `main`, or your fork). Prefer PNG for GitHub README compatibility; `badge.svg` remains for vector use outside GitHub’s image proxy if needed.
 2. Add a **single line** after the project title or intro paragraph.
 
 Example (links to hive.io):
 
 ```markdown
-[![Hive](https://raw.githubusercontent.com/hiveuprss/hive-readme-badge/main/badge.svg)](https://hive.io/)
+[![Hive](https://raw.githubusercontent.com/hiveuprss/hive-readme-badge/main/badge.png)](https://hive.io/)
 ```
 
 ## Suggested follow-up PR targets

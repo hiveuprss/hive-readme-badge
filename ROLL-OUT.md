@@ -1,9 +1,15 @@
 # Rolling the badge into other READMEs
 
-1. Pick **one** canonical `badge.png` URL (this repo on `main`, or your fork). Prefer PNG for GitHub README compatibility; `badge.svg` remains for vector use outside GitHub’s image proxy if needed.
+1. Pick **one** snippet: [Shields.io static badge](https://shields.io/badges/static-badge) (no hosting) **or** self-hosted `badge.png` / `badge.svg` from this repo (or your fork).
 2. Add a **single line** after the project title or intro paragraph.
 
-Example (links to hive.io):
+**Shields.io** (Simple Icons slug `hive_blockchain`, Hive palette):
+
+```markdown
+[![Hive](https://img.shields.io/static/v1?label=Hive&message=hive.io&color=E31337&labelColor=212529&logo=hive_blockchain&logoColor=white&style=flat)](https://hive.io/)
+```
+
+**Self-hosted PNG** (GitHub README–friendly raster):
 
 ```markdown
 [![Hive](https://raw.githubusercontent.com/hiveuprss/hive-readme-badge/main/badge.png)](https://hive.io/)

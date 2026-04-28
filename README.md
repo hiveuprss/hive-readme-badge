@@ -30,6 +30,12 @@ https://img.shields.io/static/v1?label=Hive&message=hive.io&color=E31337&labelCo
 [![Hive](https://img.shields.io/static/v1?label=Hive&message=docs&color=E31337&labelColor=212529&logo=hive_blockchain&logoColor=white&style=flat)](https://developers.hive.io/)
 ```
 
+**Markdown** (“Powered by” on the right — `message` is URL-encoded spaces):
+
+```markdown
+[![Powered By Hive](https://img.shields.io/static/v1?label=Hive&message=Powered%20By%20Hive&color=E31337&labelColor=212529&logo=hive_blockchain&logoColor=white&style=flat)](https://hive.io/)
+```
+
 **Path-style** equivalent (label, message, color in the path — see Shields docs for `_` / `--` escaping):
 
 ```
